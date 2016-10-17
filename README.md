@@ -2,7 +2,7 @@
 
 This JavaScript Calculator is a Skill Distillery Week 11 Project.
 
-It is a simple calculator built with only Javascript and no hard-coded HTML.
+It is a simple calculator built with only javascript on page load, no hard coded HTML.
 
 ### Technologies Used
 
